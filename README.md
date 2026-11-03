@@ -8,9 +8,9 @@ An interactive dashboard and machine learning model that show where fraud happen
 
 ## Screenshots
 
-![Dashboard overview](screenshots/dashboard-overview.png)
-![Fraud by hour and segments](screenshots/hour-and-segments.png)
-![Model results and transaction scorer](screenshots/model-and-scorer.png)
+![Dashboard overview](dashboard-overview.png)
+![Fraud by hour and segments](hour-and-segments.png)
+![Model results and transaction scorer](model-and-scorer.png)
 
 ## What it does
 
@@ -67,7 +67,9 @@ fraud-detection-dashboard/
 ├── index.html                              # the dashboard
 ├── fraud_model_training.py                 # trains and compares the models
 ├── financial_fraud_detection_dataset.csv   # dataset
-├── screenshots/                            # images used in this README
+├── dashboard-overview.png                  # screenshots used in this README
+├── hour-and-segments.png
+├── model-and-scorer.png
 └── README.md
 ```
 
